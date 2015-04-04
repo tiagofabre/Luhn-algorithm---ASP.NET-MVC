@@ -1,0 +1,6 @@
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Aplicacao\bin\Aplicacao.dll.config
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Aplicacao\bin\Aplicacao.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Aplicacao\bin\Aplicacao.pdb
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Aplicacao\obj\Debug\Aplicacao.csprojResolveAssemblyReference.cache
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Aplicacao\obj\Debug\Aplicacao.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Aplicacao\obj\Debug\Aplicacao.pdb

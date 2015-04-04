@@ -1,0 +1,30 @@
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\Verificador Cartao de credito.Tests.dll.config
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\Verificador Cartao de credito.Tests.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\Verificador Cartao de credito.Tests.pdb
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\System.Web.Razor.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\Verificador Cartao de credito.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\Owin.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\Verificador Cartao de credito.pdb
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\System.Web.Razor.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\obj\Debug\Verificador Cartao de credito.Tests.csprojResolveAssemblyReference.cache
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\obj\Debug\Verificador Cartao de credito.Tests.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\obj\Debug\Verificador Cartao de credito.Tests.pdb
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\Aplicacao.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito.Tests\bin\Debug\Aplicacao.pdb

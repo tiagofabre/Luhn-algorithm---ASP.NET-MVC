@@ -1,0 +1,39 @@
+﻿@model Verificador_Cartao_de_credito.Presentation_Model.CartaoDTO
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="">
+
+    <h1>Validador de Cartão</h1>
+    @{using (Html.BeginForm("ValidaCartao", "Home", FormMethod.Post))
+    {
+        @Html.HiddenFor(model => model.id)
+
+        <p>Número do cartão: </p>
+        @Html.TextBoxFor(model => model.numero);
+
+        <input type="submit" id="btn-submit" value="Testar" />
+    }
+    }
+
+    @{
+        if (Model.numero != null)
+        {
+            <h3>Cartão verificado</h3>
+
+            <p>Número: @Model.numero</p>
+            if (Model.valido)
+            {
+                <p>Verificado: Válido</p>
+            }
+            else
+            {
+                <p>Verificado: Inválido</p>
+            }
+            <p>Bandeira: @Model.bandeira</p>
+        }
+    }
+
+</div>

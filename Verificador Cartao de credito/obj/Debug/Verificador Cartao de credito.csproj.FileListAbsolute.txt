@@ -1,0 +1,57 @@
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Verificador Cartao de credito.dll.config
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Verificador Cartao de credito.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Verificador Cartao de credito.pdb
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Antlr3.Runtime.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\EntityFramework.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\EntityFramework.SqlServer.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.Security.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.Security.Google.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Newtonsoft.Json.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Owin.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\System.Web.Helpers.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\System.Web.Mvc.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\System.Web.Optimization.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\System.Web.Razor.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\System.Web.WebPages.Deployment.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\System.Web.WebPages.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\System.Web.WebPages.Razor.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\WebGrease.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\System.Web.Helpers.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\System.Web.Mvc.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\System.Web.Optimization.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\System.Web.Razor.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\System.Web.WebPages.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\System.Web.WebPages.Deployment.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\System.Web.WebPages.Razor.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Antlr3.Runtime.pdb
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Newtonsoft.Json.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\EntityFramework.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\EntityFramework.SqlServer.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.Security.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.Security.Google.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\obj\Debug\Verificador Cartao de credito.csprojResolveAssemblyReference.cache
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\obj\Debug\Verificador Cartao de credito.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\obj\Debug\Verificador Cartao de credito.pdb
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Aplicacao.dll
+C:\Projetos\Verificador Cartao de credito\Verificador Cartao de credito\Verificador Cartao de credito\bin\Aplicacao.pdb
